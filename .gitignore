@@ -1,0 +1,8 @@
+# Gunny 9.2 Resource.Server .gitignore
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.tmp
+*.log
+Thumbs.db
